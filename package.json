@@ -39,7 +39,7 @@
     "method-override": "^3.0.0",
     "pg": "^7.4.3",
     "serve-static": "^1.13.1",
-    "typeorm": "0.2.22"
+    "typeorm": "0.2.25"
   },
   "devDependencies": {
     "@types/chai": "4.2.5",
